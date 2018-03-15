@@ -6,7 +6,7 @@ react-linkedin-auth
 
 ```js
 import React from 'react'
-import LinkedIn from 'react-linkedin-login'
+import LinkedIn from 'react-linkedin-auth'
 import styles from './styles.css'
 import autobind from 'autobind-decorator'
 
